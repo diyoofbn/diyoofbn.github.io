@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { Link, useLocation } from 'react-router-dom'
+import { FaBehance } from "react-icons/fa";
 // import './navbar.css'
 import { GiRocketThruster } from "react-icons/gi";
 import { FaBars, FaTimes } from "react-icons/fa";
@@ -46,9 +47,9 @@ function NavBar() {
                     data-hover-hint-placement="bottom-start"
                 >
                     <div className="logo e2e-site-logo-text logo-text  ">
-                        <a href="https://jackcole.co.uk/work" className="preserve-whitespace">
+                        <Link to="/" className="preserve-whitespace">
                             Diyoof Bin Nizar
-                        </a>
+                        </Link>
                     </div>
                 </div>
                 <div
@@ -59,7 +60,16 @@ function NavBar() {
                 >
                     <ul>
                         <li>
-                            <a href="https://www.linkedin.com/in/thisisjackcole/" target="_blank">
+                            <a href="https://www.behance.net/diyoof" target="_blank">
+                                <FaBehance
+                                    style={{ width: "22px", height: "22px" }}
+                                    xmlSpace="preserve"
+                                    className="icon"
+                                />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.linkedin.com/in/thereforediyoof/" target="_blank">
                                 <svg
                                     version="1.1"
                                     id="Layer_1"
@@ -80,7 +90,7 @@ function NavBar() {
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.instagram.com/thisisjackcole/" target="_blank">
+                            <a href="https://www.instagram.com/therefore.diyoof/" target="_blank">
                                 <svg
                                     version="1.1"
                                     id="Layer_1"
@@ -113,7 +123,7 @@ function NavBar() {
                             </a>
                         </li>
                         <li>
-                            <a href="mailto:thisisjackcole@gmail.com">
+                            <a href="mailto:diyoofbn@gmail.com">
                                 <svg
                                     version="1.1"
                                     id="Layer_1"

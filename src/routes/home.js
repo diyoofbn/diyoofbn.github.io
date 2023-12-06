@@ -61,7 +61,7 @@ function Home() {
                                     {Config.works.map((work, index) => {
                                         return (
                                             <>
-                                                <Link class="project-cover js-project-cover-touch hold-space" to="/">
+                                                <Link class="project-cover js-project-cover-touch hold-space" to={work.link}>
                                                     <div class="cover-content-container">
                                                         <div class="cover-image-wrap">
                                                             <div class="cover-image">
