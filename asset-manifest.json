@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/diyoofbn.github.io/diyoofbn/static/css/main.5173d22e.css",
+    "main.js": "/diyoofbn.github.io/diyoofbn/static/js/main.b952c8a0.js",
+    "index.html": "/diyoofbn.github.io/diyoofbn/index.html",
+    "main.5173d22e.css.map": "/diyoofbn.github.io/diyoofbn/static/css/main.5173d22e.css.map",
+    "main.b952c8a0.js.map": "/diyoofbn.github.io/diyoofbn/static/js/main.b952c8a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5173d22e.css",
+    "static/js/main.b952c8a0.js"
+  ]
+}
