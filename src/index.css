@@ -915,7 +915,7 @@ html,
 
 html:before,
 .site-wrap:before {
-  background-color: #1ADD91;
+  background-color: #e9be4a;
   display: none;
   opacity: calc(30 * 0.01);
 }
@@ -1469,7 +1469,7 @@ nav .link-title:last-child {
 }
 
 .logo {
-  font-family: ftnk;
+  font-family: Poppins;
   font-size: 27px;
   font-style: normal;
   font-weight: 700;
@@ -1493,7 +1493,7 @@ nav .link-title:last-child {
 }
 
 .logo-secondary {
-  font-family: ftnk;
+  font-family: Poppins;
   font-size: 22px;
   font-style: normal;
   font-weight: 400;
@@ -1525,7 +1525,7 @@ nav {
 
 nav .gallery-title a {
   color: #23262D;
-  font-family: ftnk;
+  font-family: Poppins;
   font-size: 20px;
   font-style: normal;
   font-weight: 700;
@@ -1547,7 +1547,7 @@ nav .gallery-title a.active {
 
 nav .project-title a {
   color: #ffffff;
-  font-family: ftnk;
+  font-family: Poppins;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
@@ -1568,7 +1568,7 @@ nav .project-title a.active {
 
 nav .page-title a {
   color: #23262D;
-  font-family: ftnk;
+  font-family: Poppins;
   font-size: 20px;
   font-style: normal;
   font-weight: 700;
@@ -1591,7 +1591,7 @@ nav .page-title a.active {
 
 nav .link-title a {
   color: #23262D;
-  font-family: ftnk;
+  font-family: Poppins;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
@@ -1755,7 +1755,7 @@ nav .link-title {
 
 .masthead {
   /* stylelint-disable function-url-quotes */
-  background-image: url("https://cdn.myportfolio.com/73096b60-5650-4a8d-9d7c-f05a47b7ccfe/12ddae00-e8ba-4896-8a91-20b2c9279d4a_rwc_12x0x1905x1080x4096.jpg?h=02fc4bc8040e6f5042f64f3eb7318bf9");
+  background-image: url("https://atd-blogs.s3.us-east-2.amazonaws.com/wp-content/uploads/2022/03/16132227/banner-graphic-1.webp");
   /* stylelint-enable function-url-quotes */
   background-position: center center;
   background-repeat: no-repeat;
@@ -1784,8 +1784,8 @@ nav .link-title {
 
 .masthead h1 {
   color: #F7F8FC;
-  font-family: ftnk;
-  font-size: 64px;
+  font-family: Poppins;
+  font-size: 50px;
   font-style: normal;
   font-weight: 700;
   line-height: 64px;
@@ -1797,8 +1797,8 @@ nav .link-title {
 
 .masthead p {
   color: #FFFFFF;
-  font-family: ftnk;
-  font-size: 28px;
+  font-family: Poppins;
+  font-size: 22px;
   font-style: normal;
   font-weight: 400;
   line-height: 32px;
@@ -1898,7 +1898,7 @@ nav .link-title {
 }
 
 .site-footer {
-  font-family: ftnk;
+  font-family: Poppins;
   font-size: 16px;
   font-style: normal;
   font-weight: 300;
@@ -1936,7 +1936,7 @@ nav .link-title {
 }
 
 .cookie-banner {
-  font-family: ftnk;
+  font-family: Poppins;
   width: 100%;
 }
 
@@ -1949,7 +1949,7 @@ nav .link-title {
 }
 
 .lightbox-content .grid__image-caption {
-  font-family: ftnk;
+  font-family: Poppins;
 }
 
 #lightbox-wrap,
@@ -1959,7 +1959,7 @@ nav .link-title {
 
 .grid__image-caption,
 .grid__image-caption-lightbox {
-  font-family: ftnk;
+  font-family: Poppins;
 }
 
 .site-content {
@@ -1971,7 +1971,7 @@ nav .link-title {
 .site-header {
   -webkit-align-items: center;
   align-items: center;
-  background-color: #23fffa;
+  background-color: #e9be4a;
   height: 60px;
   padding-bottom: 0px;
   padding-left: 3%;
@@ -2008,7 +2008,7 @@ nav .link-title {
 }
 
 .site-header.on-scroll nav .link-title a {
-  color: #1ADD91;
+  color: #e9be4a;
 }
 
 .header-placeholder {
@@ -2313,12 +2313,12 @@ nav .link-title {
   }
 
   .site-header.on-scroll .hamburger i {
-    background-color: #1ADD91;
+    background-color: #e9be4a;
   }
 
   .responsive-nav,
   .responsive-nav .social {
-    background-color: #1ADD91 !important;
+    background-color: #e9be4a !important;
   }
 }
 
@@ -2522,7 +2522,7 @@ nav .link-title {
 
 .project-cover:hover .cover-image:after,
 .project-cover.touch-hover .cover-image:after {
-  background-color: #1ADD91;
+  background-color: #e9be4a;
   opacity: 0.95;
 }
 
@@ -2552,7 +2552,7 @@ nav .link-title {
 .project-cover .title {
   color: #FFFFFF;
   float: left;
-  font-family: ftnk;
+  font-family: Poppins;
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
@@ -2569,7 +2569,7 @@ nav .link-title {
 .project-cover .date {
   color: #ffffff;
   float: none;
-  font-family: ftnk;
+  font-family: Poppins;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -2587,7 +2587,7 @@ nav .link-title {
 .project-cover .custom1 {
   color: #ffffff;
   float: none;
-  font-family: ftnk;
+  font-family: Poppins;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -2605,7 +2605,7 @@ nav .link-title {
 .project-cover .custom2 {
   color: #23262D;
   float: left;
-  font-family: ftnk;
+  font-family: Poppins;
   font-size: 21px;
   font-style: normal;
   font-weight: 400;
@@ -2622,7 +2622,7 @@ nav .link-title {
 .project-cover .description {
   color: #23262D;
   float: left;
-  font-family: ftnk;
+  font-family: Poppins;
   font-size: 21px;
   font-style: normal;
   font-weight: 400;
@@ -2845,7 +2845,7 @@ nav .link-title {
 }
 
 .icon-back-to-top {
-  fill: #1ADD91;
+  fill: #e9be4a;
   height: 20px;
   opacity: 0.5;
   position: absolute;

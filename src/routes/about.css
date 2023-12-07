@@ -772,7 +772,7 @@
     text-align: left; }
   
   .logo {
-    font-family: ftnk;
+    font-family: Poppins;
     font-size: 27px;
     font-style: normal;
     font-weight: 700;
@@ -791,7 +791,7 @@
       text-decoration: underline; }
   
   .logo-secondary {
-    font-family: ftnk;
+    font-family: Poppins;
     font-size: 22px;
     font-style: normal;
     font-weight: 400;
@@ -816,7 +816,7 @@
     width: 30%; }
     nav .gallery-title a {
       color: #23262D;
-      font-family: ftnk;
+      font-family: Poppins;
       font-size: 20px;
       font-style: normal;
       font-weight: 700;
@@ -832,7 +832,7 @@
         text-decoration: underline; }
     nav .project-title a {
       color: #ffffff;
-      font-family: ftnk;
+      font-family: Poppins;
       font-size: 20px;
       font-style: normal;
       font-weight: 400;
@@ -847,7 +847,7 @@
         font-weight: 700; }
     nav .page-title a {
       color: #23262D;
-      font-family: ftnk;
+      font-family: Poppins;
       font-size: 20px;
       font-style: normal;
       font-weight: 700;
@@ -864,7 +864,7 @@
         text-decoration: underline; }
     nav .link-title a {
       color: #23262D;
-      font-family: ftnk;
+      font-family: Poppins;
       font-size: 20px;
       font-style: normal;
       font-weight: 400;
@@ -1002,7 +1002,7 @@
       opacity: 0.4; }
     .masthead h1 {
       color: #FFFFFF;
-      font-family: ftnk;
+      font-family: Poppins;
       font-size: 64px;
       font-style: normal;
       font-weight: 700;
@@ -1013,7 +1013,7 @@
       text-transform: none; }
     .masthead p {
       color: #F7F8FC;
-      font-family: ftnk;
+      font-family: Poppins;
       font-size: 48px;
       font-style: normal;
       font-weight: 300;
@@ -1085,7 +1085,7 @@
       padding-top: 16px; } }
   
   .site-footer {
-    font-family: ftnk;
+    font-family: Poppins;
     font-size: 16px;
     font-style: normal;
     font-weight: 300;
@@ -1116,7 +1116,7 @@
       padding-top: 0px; } }
   
   .cookie-banner {
-    font-family: ftnk;
+    font-family: Poppins;
     width: 100%; }
     .cookie-banner .close-btn {
       cursor: pointer; }
@@ -1124,7 +1124,7 @@
   .lightbox-content {
     height: 100%; }
     .lightbox-content .grid__image-caption {
-      font-family: ftnk; }
+      font-family: Poppins; }
   
   #lightbox-wrap,
   #lightbox-inner-wrap {
@@ -1132,7 +1132,7 @@
   
   .grid__image-caption,
   .grid__image-caption-lightbox {
-    font-family: ftnk; }
+    font-family: Poppins; }
   
   .site-content {
     margin-left: 1%;
@@ -1142,7 +1142,7 @@
   .site-header {
     -webkit-align-items: center;
     align-items: center;
-    background-color: #1ADD91;
+    background-color: #e9be4a;
     height: 60px;
     padding-bottom: 0px;
     padding-left: 3%;
@@ -1165,7 +1165,7 @@
       .site-header.on-scroll nav .project-title a {
         color: #fa2a2a; }
       .site-header.on-scroll nav .link-title a {
-        color: #1ADD91; }
+        color: #e9be4a; }
   
   .header-placeholder {
     display: none; }
@@ -1375,10 +1375,10 @@
       .site-header .pf-nav-social {
         display: none; }
       .site-header.on-scroll .hamburger i {
-        background-color: #1ADD91; }
+        background-color: #e9be4a; }
     .responsive-nav,
     .responsive-nav .social {
-      background-color: #1ADD91 !important; } }
+      background-color: #e9be4a !important; } }
   
   @media (max-width: 540px) {
     .site-header {
@@ -1975,7 +1975,7 @@
   
   .other-projects-title {
     color: #111111;
-    font-family: ftnk;
+    font-family: Poppins;
     font-size: 26px;
     font-style: normal;
     font-weight: 700;
@@ -2019,7 +2019,7 @@
     width: 100%; }
     .page-header .title {
       color: #F7F8FC;
-      font-family: ftnk;
+      font-family: Poppins;
       font-size: 22px;
       font-style: normal;
       font-weight: 700;
@@ -2031,7 +2031,7 @@
       width: 100%; }
     .page-header .description {
       color: #F7F8FC;
-      font-family: ftnk;
+      font-family: Poppins;
       font-size: 21px;
       font-style: normal;
       font-weight: 400;
@@ -2043,7 +2043,7 @@
       width: 100%; }
     .page-header .date {
       color: #888888;
-      font-family: ftnk;
+      font-family: Poppins;
       font-size: 14px;
       font-style: normal;
       font-weight: 700;
@@ -2055,7 +2055,7 @@
       width: 100%; }
     .page-header .custom1 {
       color: #FFFFFF;
-      font-family: ftnk;
+      font-family: Poppins;
       font-size: 21px;
       font-style: normal;
       font-weight: 400;
@@ -2067,7 +2067,7 @@
       width: 100%; }
     .page-header .custom2 {
       color: #888888;
-      font-family: ftnk;
+      font-family: Poppins;
       font-size: 14px;
       font-style: normal;
       font-weight: 400;
@@ -2272,7 +2272,7 @@
   
   .splash-modules .rich-text .title {
     color: #333333;
-    font-family: ftnk;
+    font-family: Poppins;
     font-size: 50px;
     font-style: normal;
     font-weight: 700;
@@ -2535,7 +2535,7 @@
   
   .standard-modules .rich-text .title {
     color: #333333;
-    font-family: ftnk;
+    font-family: Poppins;
     font-size: 50px;
     font-style: normal;
     font-weight: 700;
@@ -2561,8 +2561,7 @@
   .standard-modules .rich-text div,
   .standard-modules .rich-text p {
     color: #F7F8FC;
-    font-family: ftnk;
-    font-size: 21px;
+    font-family: Poppins;
     font-style: normal;
     font-weight: 400;
     line-height: 28px;
@@ -2572,7 +2571,7 @@
     text-transform: none; }
   
   .standard-modules .rich-text a {
-    color: #1ADD91;
+    color: #e9be4a;
     text-decoration: underline;
     text-transform: none; }
     .standard-modules .rich-text a:hover {
@@ -2584,7 +2583,7 @@
   .standard-modules .module-caption div,
   .standard-modules .module-caption p {
     color: #F7F8FC;
-    font-family: ftnk;
+    font-family: Poppins;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -2794,7 +2793,7 @@
     .other-projects .project-cover .title {
       color: #ffffff;
       float: none;
-      font-family: ftnk;
+      font-family: Poppins;
       font-size: 20px;
       font-style: normal;
       font-weight: 700;
@@ -2810,7 +2809,7 @@
     .other-projects .project-cover .date {
       color: #ffffff;
       float: none;
-      font-family: ftnk;
+      font-family: Poppins;
       font-size: 16px;
       font-style: normal;
       font-weight: 400;
@@ -2826,7 +2825,7 @@
     .other-projects .project-cover .custom1 {
       color: #ffffff;
       float: none;
-      font-family: ftnk;
+      font-family: Poppins;
       font-size: 16px;
       font-style: normal;
       font-weight: 400;
@@ -2842,7 +2841,7 @@
     .other-projects .project-cover .custom2 {
       color: #ffffff;
       float: none;
-      font-family: ftnk;
+      font-family: Poppins;
       font-size: 16px;
       font-style: normal;
       font-weight: 400;
@@ -2858,7 +2857,7 @@
     .other-projects .project-cover .description {
       color: #ffffff;
       float: none;
-      font-family: ftnk;
+      font-family: Poppins;
       font-size: 16px;
       font-style: normal;
       font-weight: 400;

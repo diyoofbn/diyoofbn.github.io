@@ -34,7 +34,7 @@ function About(){
                         <div id="project-modules">
                           <div className="project-module module text project-module-text align- js-project-module e2e-site-project-module-text" style={{paddingTop: '60px', paddingBottom: '60px', width: '80%', maxWidth: '900px', float: 'center', clear: 'both'}}>
                             <div className="rich-text js-text-editable module-text">
-                              <div style={{lineHeight: '28px', textAlign: 'left'}} className="texteditor-inline-lineheight"><span style={{color: '#f7f8fc'}} className="texteditor-inline-color"><span style={{fontSize: '21px'}} className="texteditor-inline-fontsize"><span style={{fontFamily: 'ftnk', fontWeight: 700}}>I'm a
+                              <div style={{lineHeight: '28px', textAlign: 'left'}} className="texteditor-inline-lineheight"><span style={{color: '#f7f8fc'}} className="texteditor-inline-color"><span style={{fontSize: '21px'}} className="texteditor-inline-fontsize"><span style={{fontFamily: 'Poppins', fontWeight: 700}}>I'm a
                                       versatile visual designer from London with 20
                                       years'&nbsp;experience.&nbsp;</span></span></span></div>
                               <div style={{lineHeight: '28px', textAlign: 'left'}} className="texteditor-inline-lineheight">My skills
@@ -58,7 +58,7 @@ function About(){
                                   </div>
                                   <div className="project-module module-caption-container js-caption-container align-left">
                                     <div className="rich-text module-caption js-text-editable">
-                                      <p><span style={{fontFamily: 'ftnk', fontWeight: 700}}><span className="texteditor-inline-color" style={{color: '#1add91'}}>| </span></span>Tools of the trade</p>
+                                      <p><span style={{fontFamily: 'Poppins', fontWeight: 700}}><span className="texteditor-inline-color" style={{color: '#e9be4a'}}>| </span></span>Tools of the trade</p>
                                     </div>
                                   </div>
                                 </div>
@@ -67,11 +67,11 @@ function About(){
                                 <div className="project-module module text project-module-text align- js-project-module e2e-site-project-module-text" style={{paddingTop: '0px', paddingBottom: '40px', width: '96%', maxWidth: '800px', float: 'left', clear: 'both'}}>
                                   <div className="rich-text js-text-editable module-text">
                                     <div style={{lineHeight: '28px'}} className="texteditor-inline-lineheight">
-                                      <div><span style={{fontFamily: 'ftnk'}}><span style={{}} className="texteditor-inline-color"><span style={{color: 'rgb(26, 221, 145)', fontWeight: 700, fontSize: '26px'}} className="texteditor-inline-fontsize">SKILLS</span><br /></span></span>Design, art
+                                      <div><span style={{fontFamily: 'Poppins'}}><span style={{}} className="texteditor-inline-color"><span style={{color: '#e9be4a', fontWeight: 700, fontSize: '26px'}} className="texteditor-inline-fontsize">SKILLS</span><br /></span></span>Design, art
                                         direction, illustration, photography, retouching, branding, scamping and
                                         visualisation, UI, animation, video, audio production, words.&nbsp;</div>
                                       <div>
-                                        <div><span style={{fontFamily: 'ftnk'}}><span style={{}} className="texteditor-inline-color"><span style={{color: 'rgb(26, 221, 145)', fontWeight: 700, fontSize: '26px'}} className="texteditor-inline-fontsize">SOFTWARE</span><br /></span></span>Photoshop,
+                                        <div><span style={{fontFamily: 'Poppins'}}><span style={{}} className="texteditor-inline-color"><span style={{color: '#e9be4a', fontWeight: 700, fontSize: '26px'}} className="texteditor-inline-fontsize">SOFTWARE</span><br /></span></span>Photoshop,
                                           Illustrator, InDesign, After Effects, Figma, Sketch, Premiere, Logic Pro, Keynote,
                                           Powerpoint.&nbsp;</div>
                                       </div>
@@ -83,7 +83,7 @@ function About(){
                           </div>
                           <div className="project-module module text project-module-text align- js-project-module e2e-site-project-module-text" style={{paddingTop: '40px', paddingBottom: '0px', width: '100%', maxWidth: '800px', float: 'center', clear: 'both'}}>
                             <div className="rich-text js-text-editable module-text">
-                              <div style={{textAlign: 'center'}}><span className="texteditor-inline-fontsize" style={{fontSize: '26px'}}><span style={{textTransform: 'uppercase'}}><span style={{fontFamily: 'ftnk', fontWeight: 700}}><span style={{color: '#1add91'}} className="texteditor-inline-color">Some brands I've extensively work
+                              <div style={{textAlign: 'center'}}><span className="texteditor-inline-fontsize" style={{fontSize: '26px'}}><span style={{textTransform: 'uppercase'}}><span style={{fontFamily: 'Poppins', fontWeight: 700}}><span style={{color: '#e9be4a'}} className="texteditor-inline-color">Some brands I've extensively work
                                         for…</span></span></span></span></div>
                             </div>
                           </div>
@@ -98,7 +98,7 @@ function About(){
                                 <div className="project-module module text project-module-text align- js-project-module e2e-site-project-module-text" style={{paddingTop: '0px', paddingBottom: '20px', width: '96%', maxWidth: '800px', float: 'left', clear: 'both'}}>
                                   <div className="rich-text js-text-editable module-text">
                                     <div style={{lineHeight: '28px', textAlign: 'left'}} className="texteditor-inline-lineheight">
-                                      <div><span style={{fontFamily: 'ftnk', fontWeight: 700}}><span style={{color: '#1add91'}} className="texteditor-inline-color"><span style={{fontSize: '26px'}} className="texteditor-inline-fontsize">ALL WORK AND NO PLAY…</span><br /><span className="texteditor-inline-color"><span style={{fontSize: '26px'}} className="texteditor-inline-fontsize">A</span> few of the things that make me
+                                      <div><span style={{fontFamily: 'Poppins', fontWeight: 700}}><span style={{color: '#e9be4a'}} className="texteditor-inline-color"><span style={{fontSize: '26px'}} className="texteditor-inline-fontsize">ALL WORK AND NO PLAY…</span><br /><span className="texteditor-inline-color"><span style={{fontSize: '26px'}} className="texteditor-inline-fontsize">A</span> few of the things that make me
                                               tick</span></span></span></div>
                                       <div>
                                         <div>I'm slightly obsessed by drums, and really the whole design 'thing' is just a
@@ -106,8 +106,25 @@ function About(){
                                         <div>Currently coming out of an period of hibernation of sorts, where I've helped
                                           produce two new humans, and hoping to pick up some past pleasures like running and
                                           yoga, although at a slightly slower pace to before.</div>
-                                        <div><span style={{fontSize: '21px'}} className="texteditor-inline-fontsize"><span style={{color: '#1add91'}} className="texteditor-inline-color"><span style={{fontFamily: 'ftnk', fontWeight: 700}}><span style={{color: '#f7f8fc'}} className="texteditor-inline-color">If you'd like to get in touch, you can find
-                                                  me here…&nbsp;</span><span style={{textTransform: 'uppercase'}}>&nbsp;</span></span></span><span style={{fontFamily: 'ftnk', fontWeight: 700}}><a href="mailto:thisisjackcole@gmail.com" target="_blank">email</a><span style={{color: '#1add91'}}> / </span><a href="https://www.linkedin.com/in/thisisjackcole/" target="_blank">linkedin</a><span style={{color: '#1add91'}}> / </span><a href="https://www.instagram.com/thisisjackcole/" target="_blank">instagram</a></span></span></div>
+                                        <div><span style={{fontSize: '20px'}} className="texteditor-inline-fontsize">
+                                          <span style={{color: '#e9be4a'}} className="texteditor-inline-color">
+                                          <span style={{fontFamily: 'Poppins', fontWeight: 800}}>
+                                            <span style={{color: '#f7f8fc'}} className="texteditor-inline-color">If you'd like to get in touch,<br/> you can find
+                                                  me here…&nbsp;</span>
+                                                  <span style={{textTransform: 'uppercase'}}>&nbsp;</span>
+                                                  </span>
+                                                  </span>
+                                                  <span style={{fontFamily: 'Poppins', fontWeight: 700}}>
+                                                    <a href="mailto:diyoofbn@gmail.com" target="_blank">email</a>
+                                                    <span style={{color: '#e9be4a'}}> / </span>
+                                                    <a href="https://www.linkedin.com/in/thereforediyoof/" target="_blank">linkedin</a>
+                                                    <span style={{color: '#e9be4a'}}> / </span>
+                                                    <a href="https://www.instagram.com/therefore.diyoof/" target="_blank">instagram</a>
+                                                    </span>
+                                                    <span style={{color: '#e9be4a'}}> / </span>
+                                                    <a href="https://www.behance.net/diyoof" target="_blank">Behance</a>
+                                                    </span>
+                                                    </div>
                                       </div>
                                     </div>
                                   </div>
@@ -116,11 +133,11 @@ function About(){
                               <div className="tree-child-wrapper" style={{flex: 1}}>
                                 <div className="project-module module image project-module-image js-js-project-module" style={{paddingTop: '0px', paddingBottom: '20px', width: '96%', float: 'left', clear: 'both'}}>
                                   <div className="js-lightbox lightbox-link" data-src="https://cdn.myportfolio.com/73096b60-5650-4a8d-9d7c-f05a47b7ccfe/193a36ae-2de6-46db-b9b3-b5daae6f9276.gif?h=bf10bc1a3ab91670c8ed4293aea5b1ee">
-                                    <img className="js-lazy e2e-site-project-module-image image-loaded" src="./Jack Cole - About_files/193a36ae-2de6-46db-b9b3-b5daae6f9276_rw_1200.gif" width={1200} srcSet="https://cdn.myportfolio.com/73096b60-5650-4a8d-9d7c-f05a47b7ccfe/193a36ae-2de6-46db-b9b3-b5daae6f9276_rw_600.gif?h=fde09f6641ea83f1bc1d787605564120 600w,https://cdn.myportfolio.com/73096b60-5650-4a8d-9d7c-f05a47b7ccfe/193a36ae-2de6-46db-b9b3-b5daae6f9276_rw_1200.gif?h=09b5f7aae812b2dfe9533109ffe2281e 1200w," sizes="(max-width: 1200px) 100vw, 1200px" />
+                                    <img className="js-lazy e2e-site-project-module-image image-loaded" src="https://cdn.pixabay.com/animation/2022/11/10/13/22/13-22-56-246_512.gif" width={1200} sizes="(max-width: 1200px) 100vw, 1200px" />
                                   </div>
                                   <div className="project-module module-caption-container js-caption-container align-left">
                                     <div className="rich-text module-caption js-text-editable">
-                                      <p><span style={{color: '#1add91'}} className="texteditor-inline-color"><span style={{fontFamily: 'ftnk', fontWeight: 700}}>| </span></span>Here I am, laughing at
+                                      <p><span style={{color: '#e9be4a'}} className="texteditor-inline-color"><span style={{fontFamily: 'Poppins', fontWeight: 700}}>| </span></span>Here I am, laughing at
                                         things</p>
                                     </div>
                                   </div>
