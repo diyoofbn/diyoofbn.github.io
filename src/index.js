@@ -9,6 +9,8 @@ import {
 } from "react-router-dom";
 import Home from "./routes/home";
 import About from "./routes/about";
+import Detail from "./routes/detail";
+// import Lays from './routes/detail/lays'
 import NavBar from "./components/navbar/navbar";
 // import './css/bootstrap.min.css'
 // import './css/style.css'
@@ -35,6 +37,10 @@ const router = createBrowserRouter([
               {
                 path: "about",
                 element: <About />,
+              },
+              {
+                path: "detail/:slug",
+                element: <Detail />,
               }
         ]
     },
