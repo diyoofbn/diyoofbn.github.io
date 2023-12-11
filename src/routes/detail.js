@@ -95,6 +95,12 @@ function Detail() {
                                                                         <SubHeading text={detail.text} sub={detail.sub}/>
                                                                     </>
                                                                 );
+                                                            case "LEFTGIFRIGHTIMAGE":
+                                                                return (
+                                                                    <>
+                                                                        <LeftGifRightImage url1={detail.url1} url2={detail.url2} caption1={detail.caption1} caption2={detail.caption2}/>
+                                                                    </>
+                                                                );
                                                         }
                                                         
                                                     })}
