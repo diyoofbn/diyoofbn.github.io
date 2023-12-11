@@ -77,6 +77,24 @@ function Detail() {
                                                                      <SingleImageWithCaption imgurl={detail.url} caption={detail.caption}/>
                                                                     </>
                                                                 );
+                                                            case "2ImageGrid":
+                                                                return (
+                                                                    <>
+                                                                        <TwoImageGridFixed imgurl1={detail.url1} imgurl2={detail.url2} caption={detail.caption}/>
+                                                                    </>
+                                                                );
+                                                            case "GRID":
+                                                                return (
+                                                                    <>
+                                                                        <ImageGrid imgurls={detail.url} caption={detail.caption}/>
+                                                                    </>
+                                                                );
+                                                            case "HEADING":
+                                                                return (
+                                                                    <>
+                                                                        <SubHeading text={detail.text} sub={detail.sub}/>
+                                                                    </>
+                                                                );
                                                         }
                                                         
                                                     })}

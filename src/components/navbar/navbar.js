@@ -36,7 +36,7 @@ function NavBar() {
                         </nav>
                         <div className="social pf-nav-social" data-context="theme.nav" data-hover-hint="navSocialIcons" data-hover-hint-placement="bottom-start">
                             <ul>
-                                <li>
+                                {/* <li>
                                     <a href="https://www.behance.net/diyoof" target="_blank">
                                         <FaBehance
                                             style={{ width: "22px", height: "22px" }}
@@ -44,7 +44,7 @@ function NavBar() {
                                             className="icon"
                                         />
                                     </a>
-                                </li>
+                                </li> */}
                                 <li>
                                     <a href="https://www.linkedin.com/in/thereforediyoof/" target="_blank">
                                         <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" viewBox="0 0 30 24" style={{ enableBackground: 'new 0 0 30 24' }} xmlSpace="preserve" className="icon">
@@ -129,7 +129,7 @@ function NavBar() {
                         data-hover-hint-placement="bottom-start"
                     >
                         <ul>
-                            <li>
+                            {/* <li>
                                 <a href="https://www.behance.net/diyoof" target="_blank">
                                     <FaBehance
                                         style={{ width: "22px", height: "22px" }}
@@ -137,7 +137,7 @@ function NavBar() {
                                         className="icon"
                                     />
                                 </a>
-                            </li>
+                            </li> */}
                             <li>
                                 <a href="https://www.linkedin.com/in/thereforediyoof/" target="_blank">
                                     <svg

@@ -1,6 +1,8 @@
 import React from "react";
 
-function SubHeading() {
+function SubHeading({text, sub}) {
+    const htmlText = { __html: text };
+    const htmlSub = { __html: sub };
     return (
         <>
             <div>
@@ -10,7 +12,7 @@ function SubHeading() {
                     </div>
                 </div>
                 <div className="project-module module text project-module-text align- js-project-module e2e-site-project-module-text" style={{ paddingTop: '0px', paddingBottom: 'px', float: 'center', clear: 'both' }}>
-                    <div className="rich-text js-text-editable module-text"><div style={{ textAlign: 'center' }}><span style={{ fontFamily: 'ftnk', fontWeight: 700 }}><span style={{ fontSize: '28px' }} className="texteditor-inline-fontsize"><span style={{ color: '#1add91' }} className="texteditor-inline-color">Lifestyle shoot</span></span></span></div><div style={{ textAlign: 'center' }}>Working on location with photographer Sam Peach, our brief was to provide lifestyle photography in a range of settings, from sharing a meal&nbsp;to spending quality time with friends</div></div>
+                    <div className="rich-text js-text-editable module-text"><div style={{ textAlign: 'center' }}><span style={{ fontFamily: 'ftnk', fontWeight: 700 }}><span style={{ fontSize: '28px' }} className="texteditor-inline-fontsize"><span style={{ color: '#1add91' }} className="texteditor-inline-color" dangerouslySetInnerHTML={htmlText}></span></span></span></div><div style={{ textAlign: 'center' }} dangerouslySetInnerHTML={htmlSub}></div></div>
                 </div>
             </div>
         </>

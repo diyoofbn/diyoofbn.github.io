@@ -1,6 +1,7 @@
 import React from "react";
 import { Config } from './config'
 import { Link } from 'react-router-dom'
+import AboutBg from '../aboutbg.png'
 // import { SliderData } from '../components/imageslider/Sliderdata';
 // import ImageSlider from "../components/imageslider/ImageSlider";
 // import { FaJava } from 'react-icons/fa'
@@ -19,6 +20,11 @@ import { Link } from 'react-router-dom'
 
 
 function Home() {
+    // console.log(slugFinding.title)
+  var divStyle = {
+    backgroundImage: 'url('+AboutBg+')'
+  }
+
     return (
         <>
             <div>
@@ -26,7 +32,7 @@ function Home() {
 
                 <div class="header-placeholder"></div>
                 <div class="masthead js-masthead-fixed" data-context="page.masthead" data-hover-hint="mastheadOptions"
-                    data-hover-hint-placement="top-start">
+                    data-hover-hint-placement="top-start" style={divStyle}>
                     <div class="masthead-contents">
                         <div class="masthead-text js-masthead-text" style={{ opacity: 1 }}>
                             <div data-context="page.masthead" data-hover-hint="mastheadTitle">
