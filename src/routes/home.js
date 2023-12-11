@@ -1,7 +1,7 @@
 import React from "react";
 import { Config } from './config'
 import { Link } from 'react-router-dom'
-import AboutBg from '../aboutbg.png'
+import MainBg from '../mainbg.png'
 // import { SliderData } from '../components/imageslider/Sliderdata';
 // import ImageSlider from "../components/imageslider/ImageSlider";
 // import { FaJava } from 'react-icons/fa'
@@ -22,7 +22,7 @@ import AboutBg from '../aboutbg.png'
 function Home() {
     // console.log(slugFinding.title)
   var divStyle = {
-    backgroundImage: 'url('+AboutBg+')'
+    backgroundImage: 'url('+MainBg+')'
   }
 
     return (
