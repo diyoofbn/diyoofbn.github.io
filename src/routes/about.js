@@ -1,6 +1,8 @@
 import React from "react";
 import './about.css'
 import AboutBg from '../aboutbg.png'
+import MyGif from '../me.gif'
+import Collage from '../collage.jpg'
 
 function About() {
   // console.log(slugFinding.title)
@@ -53,11 +55,11 @@ function About() {
                               <div className="tree-child-wrapper" style={{ flex: 121 }}>
                                 <div className="project-module module image project-module-image js-js-project-module" style={{ paddingTop: '0px', paddingBottom: '20px', width: '96%', float: 'left', clear: 'both' }}>
                                   <div className="js-lightbox lightbox-link" data-src="https://cdn.myportfolio.com/73096b60-5650-4a8d-9d7c-f05a47b7ccfe/d6b9a1b8-3204-421a-bafc-fdd23ae2c833.jpg?h=7cf09619eea946f6062f71a1932ab2ac">
-                                    <img className="js-lazy e2e-site-project-module-image image-loaded" src="https://images.squarespace-cdn.com/content/v1/596a407c1e5b6c3094bfafc8/1540135363562-T89HJ9HESS9KP9I4HXI9/How-to-stay-organised-as-a-freelance-designer-or-illustrator-margate-kent.jpg" width={1200} sizes="(max-width: 1200px) 100vw, 1200px" />
+                                    <img className="js-lazy e2e-site-project-module-image image-loaded" src={Collage} width={1200} sizes="(max-width: 1200px) 100vw, 1200px" />
                                   </div>
                                   <div className="project-module module-caption-container js-caption-container align-left">
                                     <div className="rich-text module-caption js-text-editable">
-                                      <p><span style={{ fontFamily: 'Poppins', fontWeight: 700 }}><span className="texteditor-inline-color" style={{ color: '#60ffe9' }}>| </span></span>Tools of the trade</p>
+                                      <p><span style={{ fontFamily: 'Poppins', fontWeight: 700 }}><span className="texteditor-inline-color" style={{ color: '#60ffe9' }}>| </span></span>Where imagination meets pixels</p>
                                     </div>
                                   </div>
                                 </div>
@@ -131,7 +133,7 @@ function About() {
                               <div className="tree-child-wrapper" style={{ flex: 1 }}>
                                 <div className="project-module module image project-module-image js-js-project-module" style={{ paddingTop: '0px', paddingBottom: '20px', width: '96%', float: 'left', clear: 'both' }}>
                                   <div className="js-lightbox lightbox-link" data-src="https://cdn.myportfolio.com/73096b60-5650-4a8d-9d7c-f05a47b7ccfe/193a36ae-2de6-46db-b9b3-b5daae6f9276.gif?h=bf10bc1a3ab91670c8ed4293aea5b1ee">
-                                    <img className="js-lazy e2e-site-project-module-image image-loaded" src="https://cdn.pixabay.com/animation/2022/11/10/13/22/13-22-56-246_512.gif" width={1200} sizes="(max-width: 1200px) 100vw, 1200px" />
+                                    <img className="js-lazy e2e-site-project-module-image image-loaded" src={MyGif} width={1200} sizes="(max-width: 1200px) 100vw, 1200px" />
                                   </div>
                                   <div className="project-module module-caption-container js-caption-container align-left">
                                     <div className="rich-text module-caption js-text-editable">

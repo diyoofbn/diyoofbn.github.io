@@ -1,6 +1,6 @@
 export const Config = {
-    "aboutmetitle" : "About Me.",
-    "aboutme" : "Experienced Digital Artist & UI/UX Designer with 3 years of proven creativity, delivering captivating visual art and seamless user experiences. Passionate about creating intuitive designs and collaborating effectively to exceed project goals.",
+    "aboutmetitle" : "From Pixels to Punchlines",
+    "aboutme" : "Passionate Graphic Designer from Bangalore: With 3 Years of Proven Creativity, I specialize in delivering captivating visual art, art direction, branding, UI/UX, Video and Occasional Writing. Let's collaborate and exceed project goals together!",
     "works": [
         // {
         //     "title":"Lay's Rebranding",
@@ -346,6 +346,42 @@ export const Config = {
                 {
                     "type":"image",
                     "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/f518f0182034151.6526726846ffb.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/1598dc182034151.652672683fde6.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/c450bc182034151.65376ae68dccf.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/11a8eb182034151.652672683433a.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/db36a8182034151.652672683c49b.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/f31462182034151.652672683b4f5.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/d419e9182034151.6526726844a8a.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/9199e8182034151.6526726836a03.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/04c931182034151.6526726841256.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/0df608182034151.6526726837aa5.png"
                 }
             ]
         },

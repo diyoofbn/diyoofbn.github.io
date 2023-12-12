@@ -2864,7 +2864,7 @@ nav .link-title {
 
 .project-module-button[data-id='m6399fe6685839970b67c795bbc043e66edfc90db24a0d0283c08c'] .button-module {
   border-radius: 100px;
-  color: #1ADD91;
+  color: #60ffe9;
   font-family: Poppins;
   font-size: 16px;
   font-style: normal;
@@ -2921,12 +2921,12 @@ nav .link-title {
   width: 40px;
 }
 .project-module-button[data-id='m6399fe6685839970b67c795bbc043e66edfc90db24a0d0283c08c'] .button-module:hover {
-  color: #FFFFFF;
+  color: #000;
   font-style: normal;
   font-weight: bold;
   text-decoration: none;
   text-transform: none;
-  background-color: #1add91;
+  background-color: #60ffe9;
 }
 
 .link-transition a {
