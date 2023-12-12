@@ -24,162 +24,43 @@ export const Config = {
         //     ]
         // },
         {
-            "title":"Red Bull Ascend",
-            "sub":"The Art of 3D Branding",
-            "image":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/19e282185717505.656876bd3bfc8.png",
-            "link": "/detail/red-bull-ascend",
-            "detail":[
-                {
-                    "type": "desc",
-                    "role": "BRAND DESIGN / GRAPHICS / ART / 3D",
-                    "text":"<span style='color: #fff;font-weight: 700;font-size:24px;' className='texteditor-inline-color'>Red Bull Adventure Dynamics</span> <br/><br/>Embark on a visual journey that defies limits and takes branding to new heights with our latest project, \"Red Bull Adventure Dynamics.\" Through the fusion of 3D modeling, expert photo manipulations, and the cutting-edge addition of AI-generated elements, we've reimagined Red Bull's identity as an epitome of adventure and daring stunts.<br/><br/>In this collection of 3D model branding, we've harnessed the power of technology to encapsulate the essence of Red Bull's adventurous spirit. Our visuals not only tell a story; they invite you to become a part of the adrenaline-pumping experience that Red Bull is renowned for."
-                },
-                {
-                    "type":"image",
-                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/4a0d4d185717505.656876bd3b03b.png"
-                },
-                {
-                    "type":"image",
-                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a2ce1c185717505.6568798a8fceb.png"
-                },
-                {
-                    "type":"image",
-                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/7074a5185717505.656876bd3d46b.png"
-                },
-                {
-                    "type":"image",
-                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/19e282185717505.656876bd3bfc8.png"
-                },
-                {
-                    "type":"image",
-                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/01ed0f185717505.656876bd3e49c.png"
-                },
-                {
-                    "type":"image",
-                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/761283185717505.656876bd404a7.png"
-                }
-            ]
-        },
-        {
-            "title":"Kinetic Glyphs",
-            "sub":"An Animated Typography Showcase",
-            "image":"https://mir-s3-cdn-cf.behance.net/project_modules/disp/ae7602185176857.655f1a75b6449.gif",
-            "link": "/detail/kinetic-glyphs-typography",
-            "detail":[
-                {
-                    "type": "desc",
-                    "role": "TYPOGRAPHY / ANIMATIONS / ART",
-                    "text":"<span style='color: #fff;font-weight: 700;font-size:24px;' className='texteditor-inline-color'>Kinetic Glyphs: An Animated Typography Showcase</span> <br/><br/>This project is a celebration of diversity in typography, featuring a series of meticulously crafted animations that showcase the versatility of letterforms. Each composition is a visual symphony, harmonizing motion, color, and typefaces to create a mesmerizing experience for the audience."
-                },
-                {
-                    "type":"2ImageGrid",
-                    "url1":"https://mir-s3-cdn-cf.behance.net/project_modules/disp/3f08fe185176857.655f1a7465576.gif",
-                    "url2":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/805629185176857.655f1a7464cae.gif",
-                },
-                {
-                    "type":"2ImageGrid",
-                    "url1":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fddaa5185176857.655f1a75b59c1.gif",
-                    "url2":"https://mir-s3-cdn-cf.behance.net/project_modules/disp/ae7602185176857.655f1a75b6449.gif",
-                },
-                {
-                    "type":"2ImageGrid",
-                    "url1":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c37623185176857.655f1a7722e14.gif",
-                    "url2":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f68dc5185176857.655f1a77221f3.gif",
-                },
-            ]
-        },
-        {
-            "title":"Levi's Fashion Branding",
-            "sub":"Levi's Funk Fusion Revolution",
-            "image":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/a42e81184907371.655ad67818d6d.png",
-            "link" : "/detail/levis-fashion-branding",
-            "detail":[
-                {
-                    "type": "desc",
-                    "role": "BRAND DESIGN / VISUAL EXPERIMENT / ART / ADOBE PHOTOSHOP",
-                    "text":"<span style='color: #fff;font-weight: 700;font-size:24px;' className='texteditor-inline-color'>Levi's Funk Fusion Revolution</span> <br/><br/>Embark on a journey through the pulsating streets of fashion rebellion with the Levi's Funk Fusion Campaign. This experimental concept unveils a kaleidoscope of creativity, seamlessly weaving together the essence of street fashion and funky aesthetics, all while showcasing the versatility of Levi's clothing. synergy of premium model photography, Photoshop manipulations, and dynamic design elements.<br/><br/>Soar Beyond. Levi's – Elevate Your Denim Experience.<br/> This poster is an ode to limitless style, capturing the spirit of Levi's as a brand that propels fashion to new heights. The yellow-outlined denim becomes a symbol of freedom and individuality against the canvas of the open sky."
-                },
-                {
-                    "type":"2ImageGrid",
-                    "url1":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/a42e81184907371.655ad67818d6d.png",
-                    "url2":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/a7647e184907371.655ad6781a9b5.png",
-                },
-                {
-                    "type":"LEFTGIFRIGHTIMAGE",
-                    "url1":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1b7610184907371.655ad67693bb6.gif",
-                    "url2":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/1511d4184907371.655ad67820e8e.png"
-                },
-                {
-                    "type":"LEFTGIFRIGHTIMAGE",
-                    "url1":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/295bdc184907371.655ad676928f0.gif",
-                    "url2":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/9e65dd184907371.655ad6781bcd7.png"
-                },
-                {
-                    "type":"LEFTGIFRIGHTIMAGE",
-                    "url1":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fa534f184907371.655ad67691c5e.gif",
-                    "url2":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/7e1a75184907371.655ad6781de77.png"
-                },
-                {
-                    "type":"LEFTGIFRIGHTIMAGE",
-                    "url1":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f6c1a5184907371.655ad676944ca.gif",
-                    "url2":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/0dc0f4184907371.655ad67820071.png"
-                },
-                {
-                    "type":"LEFTGIFRIGHTIMAGE",
-                    "url1":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/cf3a33184907371.655ad676911ac.gif",
-                    "url2":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/a903b7184907371.655ad6781ef98.png"
-                },
-                {
-                    "type":"LEFTGIFRIGHTIMAGE",
-                    "url1":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6f38d4184907371.655ad6769328e.gif",
-                    "url2":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/f22d63184907371.655ad6781cf0b.png"
-                }
-            ]
-        },
-        {
-            "title":"Converse Cosmos",
-            "sub":"Walk the Universe in Style",
-            "image":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/35443f184518207.65537f79b0fa3.png",
-            "link" : "/detail/converse-cosmos",
+            "title":"3D Model of Coca-Cola",
+            "sub":"Diwali Label Design",
+            "image":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c76941183214073.653b6e3ed6f27.png",
+            "link":"/detail/3d-model-of-coca-cola",
             "detail":[
                 {
                     "type": "desc",
                     "role": "BRAND DESIGN / GRAPHICS / ART",
-                    "text":"<span style='color: #fff;font-weight: 700;font-size:24px;' className='texteditor-inline-color'>Converse Creative Ad Concepts</span> <br/><br/>Welcome to the vibrant intersection of creativity and self-expression. \"Converse Unleashed\" is not just an advertisement; it's an immersive journey into a freestyle universe where Converse shoes reign supreme. This collection of meticulously crafted designs seamlessly blends photo manipulations and 3D modeling to bring to life a world where Converse shoes transcend mere fashion—they become a statement, a form of art.<br/><br/>[Include relevant images showcasing your photo manipulations, 3D models, and the final advertisements]"
+                    "text":"<span style='color: #fff;font-weight: 700;font-size:24px;' className='texteditor-inline-color'>Diwali Delights: 3D Model of Coca-Cola Label Design Concept</span> <br/><br/>Celebrate the Festival of Lights with our unique Coca-Cola label design concept! We've taken the essence of Diwali and fused it with the iconic Coca-Cola brand to create a captivating 3D modeling concept that encapsulates the joy, vibrancy, and festivity of this special occasion.<br/><br/>Our design inspiration revolves around the heartwarming feeling of coming together, sharing moments of happiness, and enjoying the spirit of Diwali. We've seamlessly integrated the Coca-Cola logo into a dazzling flat illustration style that radiates the energy of this beautiful festival."
                 },
                 {
-                    "type":"2ImageGrid",
-                    "url1":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/35443f184518207.65537f79b0fa3.png",
-                    "url2":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/56d911184518207.65537f79b7624.png",
-                },
-                {
-                    "type":"2ImageGrid",
-                    "url1":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/429e37184518207.65537f79b4a6f.png",
-                    "url2":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/00bfd9184518207.65537f79b2dc5.png",
-                },
-                {
-                    "type":"2ImageGrid",
-                    "url1":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/288398184518207.65537f79bd263.png",
-                    "url2":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/693b8a184518207.655399c090393.png",
-                },
-                {
-                    "type":"2ImageGrid",
-                    "url1":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/1373ec184518207.655399c08f246.png",
-                    "url2":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/cf17f7184518207.655399c091a63.png",
-                },
-                {
-                    "type":"2ImageGrid",
-                    "url1":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/a485b0184518207.65537f79bb57a.png",
-                    "url2":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/e60699184518207.65537f79bc3f1.png",
-                },
-                {
-                    "type":"2ImageGrid",
-                    "url1":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/c03e20184518207.65537f79b8f0f.png",
-                    "url2":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/690dd0184518207.65537f79b66b1.png",
-                },
-                { 
                     "type":"image",
-                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/6d5f9c184518207.65537f79be120.png"
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c76941183214073.653b6e3ed6f27.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/18fa65183214073.653b6e3ed6330.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bcfa31183214073.653b6e3ed4bb6.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d28197183214073.653b6e3ed570e.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6b8339183214073.653b6e3ed7bba.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/997d05183214073.653b6e3ed8612.png"
+                },
+                {
+                    "type":"image",
+                    "url":"	https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ab7ff2183214073.653b6e3ed3ed5.png"
                 }
             ]
         },
@@ -233,47 +114,6 @@ export const Config = {
             ]
         },
         {
-            "title":"3D Model of Coca-Cola",
-            "sub":"Diwali Label Design",
-            "image":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c76941183214073.653b6e3ed6f27.png",
-            "link":"/detail/3d-model-of-coca-cola",
-            "detail":[
-                {
-                    "type": "desc",
-                    "role": "BRAND DESIGN / GRAPHICS / ART",
-                    "text":"<span style='color: #fff;font-weight: 700;font-size:24px;' className='texteditor-inline-color'>Diwali Delights: 3D Model of Coca-Cola Label Design Concept</span> <br/><br/>Celebrate the Festival of Lights with our unique Coca-Cola label design concept! We've taken the essence of Diwali and fused it with the iconic Coca-Cola brand to create a captivating 3D modeling concept that encapsulates the joy, vibrancy, and festivity of this special occasion.<br/><br/>Our design inspiration revolves around the heartwarming feeling of coming together, sharing moments of happiness, and enjoying the spirit of Diwali. We've seamlessly integrated the Coca-Cola logo into a dazzling flat illustration style that radiates the energy of this beautiful festival."
-                },
-                {
-                    "type":"image",
-                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c76941183214073.653b6e3ed6f27.png"
-                },
-                {
-                    "type":"image",
-                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/18fa65183214073.653b6e3ed6330.png"
-                },
-                {
-                    "type":"image",
-                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bcfa31183214073.653b6e3ed4bb6.png"
-                },
-                {
-                    "type":"image",
-                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d28197183214073.653b6e3ed570e.png"
-                },
-                {
-                    "type":"image",
-                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6b8339183214073.653b6e3ed7bba.png"
-                },
-                {
-                    "type":"image",
-                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/997d05183214073.653b6e3ed8612.png"
-                },
-                {
-                    "type":"image",
-                    "url":"	https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ab7ff2183214073.653b6e3ed3ed5.png"
-                }
-            ]
-        },
-        {
             "title":"JBL Earbuds at IPL 2023",
             "sub":"Harmonizing the Cheers",
             "image":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/1092c2178017447.64e0a35a2f6fe.png",
@@ -302,6 +142,167 @@ export const Config = {
                 }
             ]
         },
+        {
+            "title":"Kinetic Glyphs",
+            "sub":"An Animated Typography Showcase",
+            "image":"https://mir-s3-cdn-cf.behance.net/project_modules/disp/ae7602185176857.655f1a75b6449.gif",
+            "link": "/detail/kinetic-glyphs-typography",
+            "detail":[
+                {
+                    "type": "desc",
+                    "role": "TYPOGRAPHY / ANIMATIONS / ART",
+                    "text":"<span style='color: #fff;font-weight: 700;font-size:24px;' className='texteditor-inline-color'>Kinetic Glyphs: An Animated Typography Showcase</span> <br/><br/>This project is a celebration of diversity in typography, featuring a series of meticulously crafted animations that showcase the versatility of letterforms. Each composition is a visual symphony, harmonizing motion, color, and typefaces to create a mesmerizing experience for the audience."
+                },
+                {
+                    "type":"2ImageGrid",
+                    "url1":"https://mir-s3-cdn-cf.behance.net/project_modules/disp/3f08fe185176857.655f1a7465576.gif",
+                    "url2":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/805629185176857.655f1a7464cae.gif",
+                },
+                {
+                    "type":"2ImageGrid",
+                    "url1":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fddaa5185176857.655f1a75b59c1.gif",
+                    "url2":"https://mir-s3-cdn-cf.behance.net/project_modules/disp/ae7602185176857.655f1a75b6449.gif",
+                },
+                {
+                    "type":"2ImageGrid",
+                    "url1":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c37623185176857.655f1a7722e14.gif",
+                    "url2":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f68dc5185176857.655f1a77221f3.gif",
+                },
+            ]
+        },
+        {
+            "title":"Converse Cosmos",
+            "sub":"Walk the Universe in Style",
+            "image":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/35443f184518207.65537f79b0fa3.png",
+            "link" : "/detail/converse-cosmos",
+            "detail":[
+                {
+                    "type": "desc",
+                    "role": "BRAND DESIGN / GRAPHICS / ART",
+                    "text":"<span style='color: #fff;font-weight: 700;font-size:24px;' className='texteditor-inline-color'>Converse Creative Ad Concepts</span> <br/><br/>Welcome to the vibrant intersection of creativity and self-expression. \"Converse Unleashed\" is not just an advertisement; it's an immersive journey into a freestyle universe where Converse shoes reign supreme. This collection of meticulously crafted designs seamlessly blends photo manipulations and 3D modeling to bring to life a world where Converse shoes transcend mere fashion—they become a statement, a form of art.<br/><br/>[Include relevant images showcasing your photo manipulations, 3D models, and the final advertisements]"
+                },
+                {
+                    "type":"2ImageGrid",
+                    "url1":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/35443f184518207.65537f79b0fa3.png",
+                    "url2":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/56d911184518207.65537f79b7624.png",
+                },
+                {
+                    "type":"2ImageGrid",
+                    "url1":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/429e37184518207.65537f79b4a6f.png",
+                    "url2":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/00bfd9184518207.65537f79b2dc5.png",
+                },
+                {
+                    "type":"2ImageGrid",
+                    "url1":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/288398184518207.65537f79bd263.png",
+                    "url2":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/693b8a184518207.655399c090393.png",
+                },
+                {
+                    "type":"2ImageGrid",
+                    "url1":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/1373ec184518207.655399c08f246.png",
+                    "url2":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/cf17f7184518207.655399c091a63.png",
+                },
+                {
+                    "type":"2ImageGrid",
+                    "url1":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/a485b0184518207.65537f79bb57a.png",
+                    "url2":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/e60699184518207.65537f79bc3f1.png",
+                },
+                {
+                    "type":"2ImageGrid",
+                    "url1":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/c03e20184518207.65537f79b8f0f.png",
+                    "url2":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/690dd0184518207.65537f79b66b1.png",
+                },
+                { 
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/6d5f9c184518207.65537f79be120.png"
+                }
+            ]
+        },
+        {
+            "title":"Levi's Fashion Branding",
+            "sub":"Levi's Funk Fusion Revolution",
+            "image":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/a42e81184907371.655ad67818d6d.png",
+            "link" : "/detail/levis-fashion-branding",
+            "detail":[
+                {
+                    "type": "desc",
+                    "role": "BRAND DESIGN / VISUAL EXPERIMENT / ART / ADOBE PHOTOSHOP",
+                    "text":"<span style='color: #fff;font-weight: 700;font-size:24px;' className='texteditor-inline-color'>Levi's Funk Fusion Revolution</span> <br/><br/>Embark on a journey through the pulsating streets of fashion rebellion with the Levi's Funk Fusion Campaign. This experimental concept unveils a kaleidoscope of creativity, seamlessly weaving together the essence of street fashion and funky aesthetics, all while showcasing the versatility of Levi's clothing. synergy of premium model photography, Photoshop manipulations, and dynamic design elements.<br/><br/>Soar Beyond. Levi's – Elevate Your Denim Experience.<br/> This poster is an ode to limitless style, capturing the spirit of Levi's as a brand that propels fashion to new heights. The yellow-outlined denim becomes a symbol of freedom and individuality against the canvas of the open sky."
+                },
+                {
+                    "type":"2ImageGrid",
+                    "url1":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/a42e81184907371.655ad67818d6d.png",
+                    "url2":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/a7647e184907371.655ad6781a9b5.png",
+                },
+                {
+                    "type":"LEFTGIFRIGHTIMAGE",
+                    "url1":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1b7610184907371.655ad67693bb6.gif",
+                    "url2":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/1511d4184907371.655ad67820e8e.png"
+                },
+                {
+                    "type":"LEFTGIFRIGHTIMAGE",
+                    "url1":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/295bdc184907371.655ad676928f0.gif",
+                    "url2":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/9e65dd184907371.655ad6781bcd7.png"
+                },
+                {
+                    "type":"LEFTGIFRIGHTIMAGE",
+                    "url1":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fa534f184907371.655ad67691c5e.gif",
+                    "url2":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/7e1a75184907371.655ad6781de77.png"
+                },
+                {
+                    "type":"LEFTGIFRIGHTIMAGE",
+                    "url1":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f6c1a5184907371.655ad676944ca.gif",
+                    "url2":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/0dc0f4184907371.655ad67820071.png"
+                },
+                {
+                    "type":"LEFTGIFRIGHTIMAGE",
+                    "url1":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/cf3a33184907371.655ad676911ac.gif",
+                    "url2":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/a903b7184907371.655ad6781ef98.png"
+                },
+                {
+                    "type":"LEFTGIFRIGHTIMAGE",
+                    "url1":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6f38d4184907371.655ad6769328e.gif",
+                    "url2":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/f22d63184907371.655ad6781cf0b.png"
+                }
+            ]
+        },
+        {
+            "title":"Red Bull Ascend",
+            "sub":"The Art of 3D Branding",
+            "image":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/19e282185717505.656876bd3bfc8.png",
+            "link": "/detail/red-bull-ascend",
+            "detail":[
+                {
+                    "type": "desc",
+                    "role": "BRAND DESIGN / GRAPHICS / ART / 3D",
+                    "text":"<span style='color: #fff;font-weight: 700;font-size:24px;' className='texteditor-inline-color'>Red Bull Adventure Dynamics</span> <br/><br/>Embark on a visual journey that defies limits and takes branding to new heights with our latest project, \"Red Bull Adventure Dynamics.\" Through the fusion of 3D modeling, expert photo manipulations, and the cutting-edge addition of AI-generated elements, we've reimagined Red Bull's identity as an epitome of adventure and daring stunts.<br/><br/>In this collection of 3D model branding, we've harnessed the power of technology to encapsulate the essence of Red Bull's adventurous spirit. Our visuals not only tell a story; they invite you to become a part of the adrenaline-pumping experience that Red Bull is renowned for."
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/4a0d4d185717505.656876bd3b03b.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a2ce1c185717505.6568798a8fceb.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/7074a5185717505.656876bd3d46b.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/19e282185717505.656876bd3bfc8.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/01ed0f185717505.656876bd3e49c.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/761283185717505.656876bd404a7.png"
+                }
+            ]
+        },
+        
         // {
         //     "title":"MYn - Office Design",
         //     "sub":"All @ MYn Office",
@@ -329,10 +330,10 @@ export const Config = {
         //     ]
         // },
         {
-            "title":"MYn App - UI/UX Design",
-            "sub":"MYn - The Ultimate Super App Redefined",
+            "title":"MYn - Super App BillBoard",
+            "sub":"Captivating Billboard Design",
             "image":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/8a4939182034151.6526726845dc0.png",
-            "link":"/detail/myn-app-ui-ux-design",
+            "link":"/detail/myn-app-bill-board",
             "detail":[
                 {
                     "type": "desc",
@@ -341,7 +342,7 @@ export const Config = {
                 },
                 {
                     "type":"image",
-                    "url":"	https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/3cd242182034151.6526726838d05.png"
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/f377b2181981945.652580c35f08c.png"
                 },
                 {
                     "type":"image",
