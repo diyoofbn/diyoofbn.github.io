@@ -303,19 +303,52 @@ export const Config = {
             ]
         },
         
-        // {
-        //     "title":"MYn - Office Design",
-        //     "sub":"All @ MYn Office",
-        //     "image":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/6a63df182102399.65279135a4b17.png",
-        //     "link": "/detail/myn-office-design",
-        //     "detail":[
-        //         {
-        //             "type": "desc",
-        //             "role": "BRAND DESIGN / GRAPHICS / ART",
-        //             "text":"<span style='color: #fff;font-weight: 700;font-size:24px;' className='texteditor-inline-color'>🎧🏏📣 Bringing Every Roar Closer: <br/>Celebrating Cricket Fervor with JBL Earbuds 📣🏏🎧</span> <br/><br/>Step into the electrifying world of cricket with my latest illustration – a vibrant tribute to the ultimate convergence of sound, sports, and euphoria. The canvas comes alive as JBL Earbuds take center stage amidst the grandeur of the IPL 2023, where every cheer, every beat, and every roar reverberates in perfect harmony.<br/><br/>JBL was the Official audio partner of Delhi Capitals in IPL 2023.<br/>This was my official paid collaboration with JBL"
-        //         },
-        //     ]
-        // },
+        {
+            "title":"MYn - UI/UX Design",
+            "sub":"The Ultimate Super App Redefined",
+            "image":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/8a4939182034151.6526726845dc0.png",
+            "link": "/detail/myn-app-ui-ux",
+            "detail":[
+                {
+                    "type": "desc",
+                    "role": "BRAND DESIGN / GRAPHICS / ART",
+                    "text":"<span style='color: #fff;font-weight: 700;font-size:24px;' className='texteditor-inline-color'>MYn - The Ultimate Super App Redefined</span> <br/><br/>All-in-One. Multipurpose. One-Stop-Shop. So many ways to say the same thing."
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/8a4939182034151.6526726845dc0.png"
+                }
+                ,
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/8dc58e182034151.652672683331b.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/f6abbc182034151.652672683dae9.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/0bcc18182034151.652672683a014.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/dd58f6182034151.652672683eb47.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/fa346c182034151.6526726843938.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/d6979f182034151.6526726835a6f.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/f518f0182034151.6526726846ffb.png"
+                }
+            ]
+        },
         // {
         //     "title":"MYn - Super App Bill Board",
         //     "sub":"MYn Super App: Empowering your World",
@@ -332,7 +365,7 @@ export const Config = {
         {
             "title":"MYn - Super App BillBoard",
             "sub":"Captivating Billboard Design",
-            "image":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/8a4939182034151.6526726845dc0.png",
+            "image":"	https://mir-s3-cdn-cf.behance.net/projects/808/89536c181981945.Y3JvcCw0MzQ5LDM0MDIsNzEwLDA.png",
             "link":"/detail/myn-app-bill-board",
             "detail":[
                 {
