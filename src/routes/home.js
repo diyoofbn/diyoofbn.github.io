@@ -1,7 +1,8 @@
-import React from "react";
+import {React, useEffect} from "react";
 import { Config } from './config'
 import { Link } from 'react-router-dom'
 import MainBg from '../mainbg.png'
+import { useLocation } from 'react-router-dom';
 // import { SliderData } from '../components/imageslider/Sliderdata';
 // import ImageSlider from "../components/imageslider/ImageSlider";
 // import { FaJava } from 'react-icons/fa'
@@ -21,6 +22,14 @@ import MainBg from '../mainbg.png'
 
 function Home() {
     // console.log(slugFinding.title)
+    const location = useLocation();
+    useEffect(() => {
+        window.scrollTo({
+            top: 0,
+            behavior: 'smooth',
+          });
+    }, [location]);
+
     var divStyle = {
         backgroundImage: 'url(' + MainBg + ')'
     }

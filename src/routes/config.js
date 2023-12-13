@@ -1,3 +1,5 @@
+// import AwsF1Img from '../awsf1.jpg'
+
 export const Config = {
     "aboutmetitle" : "From Pixels to Punchlines",
     "aboutme" : "Passionate Graphic Designer from Bangalore: With 3 Years of Proven Creativity, I specialize in delivering captivating visual art, art direction, branding, UI/UX, Video and Occasional Writing. Let's collaborate and exceed project goals together!",
@@ -687,23 +689,23 @@ export const Config = {
                 }
             ]
         },
-        // {
-        //     "title":"F1 Quiz Game Web UI Design",
-        //     "sub":"UI/UX Design",
-        //     "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/af11dc178063677.64e1bfd0a35db.png",
-        //     "link":"/detail/f1-quiz-game-web-ui",
-        //     "detail":[
-        //         {
-        //             "type": "desc",
-        //             "role": "UI DESIGN / WEB DESIGN",
-        //             "text":"<span style='color: #fff;font-weight: 700;font-size:24px;' className='texteditor-inline-color'>F1 Quiz Game UI Design for AWS Employee Engagement</span> <br/><br/>Step into the heart of innovation at the NxtGen Data Center in Badadi, Bangalore, where technology meets sustainability in a vibrant wall mural. As a celebration of green energy practices, I had the privilege of adorning the data center's walls with a series of flat illustrations and icons that visually narrate its commitment to eco-friendly operations.<br/>The NxtGen Data Center wall design was a venture into the world of visual storytelling. As a flat illustration, it was conceived to encapsulate the very essence of a modern data center. The illustration served as a visual narrative, showcasing the critical elements that underpin the data center's functionality and reliability."
-        //         },
-        //         {
-        //             "type":"image",
-        //             "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/af11dc178063677.64e1bfd0a35db.png"
-        //         }
-        //     ]
-        // },
+        {
+            "title":"F1 Quiz Game Web UI Design",
+            "sub":"UI/UX Design",
+            "image": "../images/awsf1.jpg",
+            "link":"/detail/f1-quiz-game-web-ui",
+            "detail":[
+                {
+                    "type": "desc",
+                    "role": "UI DESIGN / WEB DESIGN",
+                    "text":"<span style='color: #fff;font-weight: 700;font-size:24px;' className='texteditor-inline-color'>F1 Quiz Game UI Design for AWS Employee Engagement</span> <br/><br/>Step into the heart of innovation at the NxtGen Data Center in Badadi, Bangalore, where technology meets sustainability in a vibrant wall mural. As a celebration of green energy practices, I had the privilege of adorning the data center's walls with a series of flat illustrations and icons that visually narrate its commitment to eco-friendly operations.<br/>The NxtGen Data Center wall design was a venture into the world of visual storytelling. As a flat illustration, it was conceived to encapsulate the very essence of a modern data center. The illustration served as a visual narrative, showcasing the critical elements that underpin the data center's functionality and reliability."
+                },
+                {
+                    "type":"image",
+                    "url":"../images/awsf1.jpg"
+                }
+            ]
+        },
         {
             "title":"NxtGen Data Center Wall Design",
             "sub":"Wall Design",

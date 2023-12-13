@@ -1,4 +1,4 @@
-import { React } from "react";
+import { React,useEffect } from "react";
 import { useHistory, useLocation } from 'react-router-dom';
 import DescRole from '../components/descrole'
 import ImageGrid from '../components/imagegrid'
@@ -19,11 +19,20 @@ function Detail() {
 
     // Find the work with the title containing "Animated"
     const slugFinding = Config.works.find(work => work.link.includes(slug));
+    const currentIndex = Config.works.findIndex(work => work.link.includes(slug));
+    const nextWork = Config.works[currentIndex + 1]
 
     // console.log(slugFinding.title)
     var divStyle = {
         backgroundImage: 'url(' + slugFinding.image + ')'
     }
+
+    // useEffect(() => {
+    //     window.scrollTo({
+    //         top: 0,
+    //         behavior: 'smooth',
+    //       });
+    // }, [location]);
 
     return (
         <>
@@ -119,7 +128,7 @@ function Detail() {
 
                                                     <SubHeading /> */}
 
-                                                    <NextProjectButton />
+                                                    <NextProjectButton nextLink={nextWork.link}/>
 
 
 

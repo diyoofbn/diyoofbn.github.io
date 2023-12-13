@@ -2,7 +2,7 @@ import React from "react";
 import './about.css'
 import AboutBg from '../aboutbg.png'
 import MyGif from '../me.gif'
-import Collage from '../collage.jpg'
+import Collage from '../collage.png'
 
 function About() {
   // console.log(slugFinding.title)
