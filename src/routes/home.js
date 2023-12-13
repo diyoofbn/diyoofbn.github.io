@@ -48,7 +48,7 @@ function Home() {
                                     value="London-based visual designer with a broad range of skills: art direction, illustration, photography, retouching, branding, scamping, UI, animation, video, audio, and very occasionally, words...">
                                     {Config.aboutme}</p>
                                 <div className="js-project-module project-module module button project-module-button" data-id="m6399fe6685839970b67c795bbc043e66edfc90db24a0d0283c08c" style={{ maxWidth: 'auto', paddingTop: '20px', paddingBottom: '0px' }}>
-                                    <div className="button-container" style={{ textAlign: 'center' }}>
+                                    <div className="button-container" style={{ textAlign: 'left' }}>
                                         <a href="https://drive.google.com/file/d/1yFdEdg9FPjaxsd6WYaCwEJDWwhzjK5S9/view" className="button-module preserve-whitespace--nowrap" target="_blank">DOWNLOAD CV</a>
                                     </div>
                                 </div>
