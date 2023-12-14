@@ -387,19 +387,87 @@ export const Config = {
                 }
             ]
         },
-        // {
-        //     "title":"MYn - Super App Bill Board",
-        //     "sub":"MYn Super App: Empowering your World",
-        //     "image":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/568f8a181981945.652580c35ff97.png",
-        //     "link":"/detail/myn-super-app-bill-board",
-        //     "detail":[
-        //         {
-        //             "type": "desc",
-        //             "role": "BRAND DESIGN / GRAPHICS / ART",
-        //             "text":"<span style='color: #fff;font-weight: 700;font-size:24px;' className='texteditor-inline-color'>🎧🏏📣 Bringing Every Roar Closer: <br/>Celebrating Cricket Fervor with JBL Earbuds 📣🏏🎧</span> <br/><br/>Step into the electrifying world of cricket with my latest illustration – a vibrant tribute to the ultimate convergence of sound, sports, and euphoria. The canvas comes alive as JBL Earbuds take center stage amidst the grandeur of the IPL 2023, where every cheer, every beat, and every roar reverberates in perfect harmony.<br/><br/>JBL was the Official audio partner of Delhi Capitals in IPL 2023.<br/>This was my official paid collaboration with JBL"
-        //         },
-        //     ]
-        // },
+        {
+            "title":"MYn - Office Design",
+            "sub":"Space designed to inspire",
+            "image":"https://mir-s3-cdn-cf.behance.net/projects/808/837e44182102399.Y3JvcCwzMDY4LDI0MDAsNDI1LDA.png",
+            "link":"/detail/myn-office-design",
+            "detail":[
+                {
+                    "type": "desc",
+                    "role": "OFFICE DESIGN / GRAPHICS / ART",
+                    "text":"<span style='color: #fff;font-weight: 700;font-size:24px;' className='texteditor-inline-color'>Innovate, Collaborate, Celebrate - All at MYn Office</span> <br/><br/>Step into the world of creative excellence and unparalleled efficiency at MYn Office."
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/cd52b5182102399.65279135aa371.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/390ba1182102399.65279135ad784.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/6a63df182102399.65279135a4b17.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/6242fe182102399.65279135a7aba.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/3a6624182102399.652797da5031a.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/8ddbbb182102399.6527967379bdd.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/2ab483182102399.65279135a8dc2.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/67d1dc182102399.65279135ac7df.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/fe759f182102399.65279135af895.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/a64673182102399.65279135ab5d6.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/5d19db182102399.65279135a17a0.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/fa9e6c182102399.65279135b0786.png"
+                },
+                {
+                    "type":"image",
+                    "url":"	https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/321196182102399.65279135ae758.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/87f20f182102399.65279135a63c6.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/a7121a182102399.65279135a34ba.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/fe9a61182102399.652797da50fe2.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/61ae46182102399.652797da4f638.png"
+                }
+            ]
+        },
         {
             "title":"MYn - Super App BillBoard",
             "sub":"Captivating Billboard Design",
@@ -838,30 +906,30 @@ export const Config = {
                 }
             ]
         },
-        {
-            "title":"Student - Teacher App UI Design",
-            "sub":"UI/UX Design",
-            "image": "https://mir-s3-cdn-cf.behance.net/projects/808/76d008105923251.Y3JvcCwxMTgwLDkyMywzODUsNzg.png",
-            "link":"/detail/teacher-app-ui-design",
-            "detail": [
-                {
-                    "type":"desc",
-                    "role":"UI/UX / APP UI",
-                    "text":"I had a vague idea of how the app will function. Mapping the basic flow of the app forced me to figure each step on the path the parents app will take throughout the solution. So i designed basic 4 screens of the parents app which i implemented"
-                },
-                {
-                    "type":"image",
-                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/fs/3472df105923251.5f846338c0450.png"
-                },
-                {
-                    "type":"image",
-                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/9e6348105923251.5f846338bf8c8.png"
-                },
-                {
-                    "type":"image",
-                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/786c29105923251.5f846338c0bdd.png"
-                }
-            ]
-        }
+        // {
+        //     "title":"Student - Teacher App UI Design",
+        //     "sub":"UI/UX Design",
+        //     "image": "https://mir-s3-cdn-cf.behance.net/projects/808/76d008105923251.Y3JvcCwxMTgwLDkyMywzODUsNzg.png",
+        //     "link":"/detail/teacher-app-ui-design",
+        //     "detail": [
+        //         {
+        //             "type":"desc",
+        //             "role":"UI/UX / APP UI",
+        //             "text":"I had a vague idea of how the app will function. Mapping the basic flow of the app forced me to figure each step on the path the parents app will take throughout the solution. So i designed basic 4 screens of the parents app which i implemented"
+        //         },
+        //         {
+        //             "type":"image",
+        //             "url":"https://mir-s3-cdn-cf.behance.net/project_modules/fs/3472df105923251.5f846338c0450.png"
+        //         },
+        //         {
+        //             "type":"image",
+        //             "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/9e6348105923251.5f846338bf8c8.png"
+        //         },
+        //         {
+        //             "type":"image",
+        //             "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/786c29105923251.5f846338c0bdd.png"
+        //         }
+        //     ]
+        // }
     ]
 }
