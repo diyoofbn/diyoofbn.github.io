@@ -222,7 +222,7 @@ export const Config = {
         {
             "title":"Levi's Fashion Branding",
             "sub":"Levi's Funk Fusion Revolution",
-            "image":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/a42e81184907371.655ad67818d6d.png",
+            "image":"https://mir-s3-cdn-cf.behance.net/projects/808/a50120184907371.Y3JvcCw4MDgsNjMyLDAsMA.png",
             "link" : "/detail/levis-fashion-branding",
             "detail":[
                 {
@@ -692,7 +692,7 @@ export const Config = {
         {
             "title":"F1 Quiz Game Web UI Design",
             "sub":"UI/UX Design",
-            "image": "../images/awsf1.jpg",
+            "image": "https://mir-s3-cdn-cf.behance.net/projects/808/bf70e8178063677.Y3JvcCwzODQwLDMwMDMsMCwxOTk.png",
             "link":"/detail/f1-quiz-game-web-ui",
             "detail":[
                 {
@@ -835,6 +835,31 @@ export const Config = {
                     "type":"image",
                     "caption":"Responsive Screens",
                     "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/da52c6178207499.64e44db4182ef.png"
+                }
+            ]
+        },
+        {
+            "title":"Student - Teacher App UI Design",
+            "sub":"UI/UX Design",
+            "image": "https://mir-s3-cdn-cf.behance.net/projects/808/76d008105923251.Y3JvcCwxMTgwLDkyMywzODUsNzg.png",
+            "link":"/detail/teacher-app-ui-design",
+            "detail": [
+                {
+                    "type":"desc",
+                    "role":"UI/UX / APP UI",
+                    "text":"I had a vague idea of how the app will function. Mapping the basic flow of the app forced me to figure each step on the path the parents app will take throughout the solution. So i designed basic 4 screens of the parents app which i implemented"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/fs/3472df105923251.5f846338c0450.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/9e6348105923251.5f846338bf8c8.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/786c29105923251.5f846338c0bdd.png"
                 }
             ]
         }
