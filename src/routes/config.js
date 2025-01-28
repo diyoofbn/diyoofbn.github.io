@@ -4,27 +4,23 @@ export const Config = {
     "aboutmetitle" : "From Pixels to Punchlines",
     "aboutme" : "Passionate Graphic Designer from Bangalore: With 3 Years of Proven Creativity, I specialize in delivering captivating visual art, art direction, branding, UI/UX, Video and Occasional Writing. Let's collaborate and exceed project goals together!",
     "works": [
-        // {
-        //     "title":"Lay's Rebranding",
-        //     "sub":"Rebranding is not a simple exercise.",
-        //     "image":"https://mir-cdn.behance.net/v1/rendition/project_modules/max_3840/863f67186046027.656eb30304a66.png",
-        //     "link": "https://www.behance.net/gallery/186046027/Lays-Rebranding",
-        //     "detail":[
-        //         {
-        //             "type":"image",
-        //             "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/57f655186046027.656eb302f08b9.png"
-        //         },
-        //         {
-        //             "type":"html",
-        //             "text":"Rebranding is not a simple exercise.Particularly when dealing with a well-established and widely recognized brand, the task of rebranding becomes even more challenging and intricate. Logo When I was at the store, I looked at Lay's chips bags and thought they could use a new look. So, I decided to change things up. I started with the logo, making it more modern and simpler, like many brands today. I kept the familiar colors, but the new design aims to give Lay's a fresh and updated vibe. It all began with a simple idea while browsing the snack aisle at the department store."
-        //         },
-        //         {
-        //             "type":"image",
-        //             "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/c7fcfd186046027.656eb30302a79.png",
-        //             "alt":"Present Logo"
-        //         }
-        //     ]
-        // },
+        {
+            "title":"Guardian Angel",
+            "sub":"Namma Yatri Brand Design",
+            "image":"/images/nammayathri2.png",
+            "link": "/detail/guardian-angel-namma-yatri",
+            "detail":[
+                {
+                    "type": "desc",
+                    "role": "BRAND DESIGN / GRAPHICS / ART",
+                    "text":"<span style='color: #fff;font-weight: 700;font-size:24px;' className='texteditor-inline-color'>Namma Yatri | Saves your day, every day</span> <br/>"
+                },
+                {
+                    "type":"image",
+                    "url":"/images/nammayathri1.jpg"
+                }
+            ]
+        },
         {
             "title":"3D Model of Coca-Cola",
             "sub":"Diwali Label Design",
@@ -267,43 +263,43 @@ export const Config = {
                 }
             ]
         },
-        {
-            "title":"Red Bull Ascend",
-            "sub":"The Art of 3D Branding",
-            "image":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/19e282185717505.656876bd3bfc8.png",
-            "link": "/detail/red-bull-ascend",
-            "detail":[
-                {
-                    "type": "desc",
-                    "role": "BRAND DESIGN / GRAPHICS / ART / 3D",
-                    "text":"<span style='color: #fff;font-weight: 700;font-size:24px;' className='texteditor-inline-color'>Red Bull Adventure Dynamics</span> <br/><br/>Embark on a visual journey that defies limits and takes branding to new heights with our latest project, \"Red Bull Adventure Dynamics.\" Through the fusion of 3D modeling, expert photo manipulations, and the cutting-edge addition of AI-generated elements, we've reimagined Red Bull's identity as an epitome of adventure and daring stunts.<br/><br/>In this collection of 3D model branding, we've harnessed the power of technology to encapsulate the essence of Red Bull's adventurous spirit. Our visuals not only tell a story; they invite you to become a part of the adrenaline-pumping experience that Red Bull is renowned for."
-                },
-                {
-                    "type":"image",
-                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/4a0d4d185717505.656876bd3b03b.png"
-                },
-                {
-                    "type":"image",
-                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a2ce1c185717505.6568798a8fceb.png"
-                },
-                {
-                    "type":"image",
-                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/7074a5185717505.656876bd3d46b.png"
-                },
-                {
-                    "type":"image",
-                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/19e282185717505.656876bd3bfc8.png"
-                },
-                {
-                    "type":"image",
-                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/01ed0f185717505.656876bd3e49c.png"
-                },
-                {
-                    "type":"image",
-                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/761283185717505.656876bd404a7.png"
-                }
-            ]
-        },
+        // {
+        //     "title":"Red Bull Ascend",
+        //     "sub":"The Art of 3D Branding",
+        //     "image":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/19e282185717505.656876bd3bfc8.png",
+        //     "link": "/detail/red-bull-ascend",
+        //     "detail":[
+        //         {
+        //             "type": "desc",
+        //             "role": "BRAND DESIGN / GRAPHICS / ART / 3D",
+        //             "text":"<span style='color: #fff;font-weight: 700;font-size:24px;' className='texteditor-inline-color'>Red Bull Adventure Dynamics</span> <br/><br/>Embark on a visual journey that defies limits and takes branding to new heights with our latest project, \"Red Bull Adventure Dynamics.\" Through the fusion of 3D modeling, expert photo manipulations, and the cutting-edge addition of AI-generated elements, we've reimagined Red Bull's identity as an epitome of adventure and daring stunts.<br/><br/>In this collection of 3D model branding, we've harnessed the power of technology to encapsulate the essence of Red Bull's adventurous spirit. Our visuals not only tell a story; they invite you to become a part of the adrenaline-pumping experience that Red Bull is renowned for."
+        //         },
+        //         {
+        //             "type":"image",
+        //             "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/4a0d4d185717505.656876bd3b03b.png"
+        //         },
+        //         {
+        //             "type":"image",
+        //             "url":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a2ce1c185717505.6568798a8fceb.png"
+        //         },
+        //         {
+        //             "type":"image",
+        //             "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/7074a5185717505.656876bd3d46b.png"
+        //         },
+        //         {
+        //             "type":"image",
+        //             "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/19e282185717505.656876bd3bfc8.png"
+        //         },
+        //         {
+        //             "type":"image",
+        //             "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/01ed0f185717505.656876bd3e49c.png"
+        //         },
+        //         {
+        //             "type":"image",
+        //             "url":"https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/761283185717505.656876bd404a7.png"
+        //         }
+        //     ]
+        // },
         
         {
             "title":"MYn - UI/UX Design",
