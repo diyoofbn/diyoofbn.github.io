@@ -5,6 +5,35 @@ export const Config = {
     "aboutme" : "Passionate Graphic Designer from Bangalore: With 3 Years of Proven Creativity, I specialize in delivering captivating visual art, art direction, branding, UI/UX, Video and Occasional Writing. Let's collaborate and exceed project goals together!",
     "works": [
         {
+            "title":"BGMI Quick Game Modes",
+            "sub":"Game Design",
+            "image":"/images/new1.jpeg",
+            "link": "/detail/bgmi-game-design",
+            "detail":[
+                {
+                    "type": "desc",
+                    "role": "GAME DESIGN / UI",
+                    "text":"<span style='color: #fff;font-weight: 700;font-size:24px;' className='texteditor-inline-color'>Namma Yatri | Saves your day, every day</span> <br/>"
+                },
+                {
+                    "type":"image",
+                    "url":"/images/new1.jpeg"
+                },
+                {
+                    "type":"image",
+                    "url":"/images/new2.gif"
+                },
+                {
+                    "type":"image",
+                    "url":"/images/new3.gif"
+                },
+                {
+                    "type":"image",
+                    "url":"/images/new4.gif"
+                }
+            ]
+        },
+        {
             "title":"Guardian Angel",
             "sub":"Namma Yatri Brand Design",
             "image":"/images/nammayathri2.png",
@@ -18,47 +47,6 @@ export const Config = {
                 {
                     "type":"image",
                     "url":"/images/nammayathri1.jpg"
-                }
-            ]
-        },
-        {
-            "title":"3D Model of Coca-Cola",
-            "sub":"Diwali Label Design",
-            "image":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c76941183214073.653b6e3ed6f27.png",
-            "link":"/detail/3d-model-of-coca-cola",
-            "detail":[
-                {
-                    "type": "desc",
-                    "role": "BRAND DESIGN / GRAPHICS / ART",
-                    "text":"<span style='color: #fff;font-weight: 700;font-size:24px;' className='texteditor-inline-color'>Diwali Delights: 3D Model of Coca-Cola Label Design Concept</span> <br/><br/>Celebrate the Festival of Lights with our unique Coca-Cola label design concept! We've taken the essence of Diwali and fused it with the iconic Coca-Cola brand to create a captivating 3D modeling concept that encapsulates the joy, vibrancy, and festivity of this special occasion.<br/><br/>Our design inspiration revolves around the heartwarming feeling of coming together, sharing moments of happiness, and enjoying the spirit of Diwali. We've seamlessly integrated the Coca-Cola logo into a dazzling flat illustration style that radiates the energy of this beautiful festival."
-                },
-                {
-                    "type":"image",
-                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c76941183214073.653b6e3ed6f27.png"
-                },
-                {
-                    "type":"image",
-                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/18fa65183214073.653b6e3ed6330.png"
-                },
-                {
-                    "type":"image",
-                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bcfa31183214073.653b6e3ed4bb6.png"
-                },
-                {
-                    "type":"image",
-                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d28197183214073.653b6e3ed570e.png"
-                },
-                {
-                    "type":"image",
-                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6b8339183214073.653b6e3ed7bba.png"
-                },
-                {
-                    "type":"image",
-                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/997d05183214073.653b6e3ed8612.png"
-                },
-                {
-                    "type":"image",
-                    "url":"	https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ab7ff2183214073.653b6e3ed3ed5.png"
                 }
             ]
         },
@@ -166,6 +154,47 @@ export const Config = {
                     "url1":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c37623185176857.655f1a7722e14.gif",
                     "url2":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f68dc5185176857.655f1a77221f3.gif",
                 },
+            ]
+        },
+        {
+            "title":"3D Model of Coca-Cola",
+            "sub":"Diwali Label Design",
+            "image":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c76941183214073.653b6e3ed6f27.png",
+            "link":"/detail/3d-model-of-coca-cola",
+            "detail":[
+                {
+                    "type": "desc",
+                    "role": "BRAND DESIGN / GRAPHICS / ART",
+                    "text":"<span style='color: #fff;font-weight: 700;font-size:24px;' className='texteditor-inline-color'>Diwali Delights: 3D Model of Coca-Cola Label Design Concept</span> <br/><br/>Celebrate the Festival of Lights with our unique Coca-Cola label design concept! We've taken the essence of Diwali and fused it with the iconic Coca-Cola brand to create a captivating 3D modeling concept that encapsulates the joy, vibrancy, and festivity of this special occasion.<br/><br/>Our design inspiration revolves around the heartwarming feeling of coming together, sharing moments of happiness, and enjoying the spirit of Diwali. We've seamlessly integrated the Coca-Cola logo into a dazzling flat illustration style that radiates the energy of this beautiful festival."
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c76941183214073.653b6e3ed6f27.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/18fa65183214073.653b6e3ed6330.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bcfa31183214073.653b6e3ed4bb6.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d28197183214073.653b6e3ed570e.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6b8339183214073.653b6e3ed7bba.png"
+                },
+                {
+                    "type":"image",
+                    "url":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/997d05183214073.653b6e3ed8612.png"
+                },
+                {
+                    "type":"image",
+                    "url":"	https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ab7ff2183214073.653b6e3ed3ed5.png"
+                }
             ]
         },
         {
